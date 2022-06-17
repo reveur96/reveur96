@@ -19,5 +19,6 @@
 
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=reveur96&theme=cold)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reveur96)](https://github.com/reveur96/github-readme-stats)
+  <br><br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reveur96)](https://github.com/reveur96/github-readme-stats)
 </div>
