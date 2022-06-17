@@ -1,6 +1,8 @@
-  ![header](https://capsule-render.vercel.app/api?type=Wave&animation=blink&color=9cf&height=150&section=header&text=Crystal%20K%20development%20work&fontColor=000000&fontSize=35&Stroke%20)
+ <div align="center"> 
+  
+ ![header](https://capsule-render.vercel.app/api?type=Wave&animation=blink&color=9cf&height=150&section=header&text=Crystal%20K%20development%20work&fontColor=000000&fontSize=35&Stroke%20)
 
-<div align="center"> 
+
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freveur96&count_bg=%237472FF&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
