@@ -13,7 +13,7 @@
   
   
  ## Contacts
-  fdsfadf,smdfnljskdfl
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badg=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badg=flat-square&logo=Git&logoColor=white"/> 
 </div>
