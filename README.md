@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&animation=fadeIn&color=auto&height=150&section=header&text=ReveurK%20development%20work&fontColor=000000&fontSize=35&href=https://nomadcoders.co/javascript-for-beginners/lectures/2911)
+  [![header](https://capsule-render.vercel.app/api?type=Wave&animation=fadeIn&color=auto&height=150&section=header&text=ReveurK%20development%20work&fontColor=000000&fontSize=35)](https://reveur1996.tistory.com/)
 
 <div align="center"> 
  
