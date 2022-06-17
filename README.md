@@ -17,5 +17,5 @@
 <a href=https://reveur1996.tistory.com/>Personal site</a>
   
 
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={[reveur96](https://github.com/reveur96)}&theme=cold)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={reveur96)}&theme=cold)
 </div>
