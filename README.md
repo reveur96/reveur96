@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freveur96&count_bg=9cf&title_bg=%23000000&icon=ghostery.svg&icon_color=#fff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freveur96&count_bg=%237472FF&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
   ## Techniques
 <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badg=flat-square&logo=Html5&logoColor=white"/>
