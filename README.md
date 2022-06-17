@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=Wave&animation=blink&color=9cf&height=150&section=header&text=ReveurK%20development%20work&fontColor=000000&fontSize=35&Stroke%20)
+  ![header](https://capsule-render.vercel.app/api?type=Wave&animation=blink&color=9cf&height=150&section=header&text=Crystal%20K%20development%20work&fontColor=000000&fontSize=35&Stroke%20)
 
 <div align="center"> 
  
