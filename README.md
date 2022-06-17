@@ -16,6 +16,7 @@
   
 <a href=https://reveur1996.tistory.com/>Personal site</a>
   
-  
+  pip install -r requirements.txt
+uvicorn main:app --reload
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle={reveur96}&theme=platinum4)
 </div>
