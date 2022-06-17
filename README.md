@@ -18,7 +18,7 @@
   
 <a href=https://reveur1996.tistory.com/>Personal site</a>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reveur96&repo=github-readme-stats)](https://github.com/reveur96/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reveur96)](https://github.com/reveur96/github-readme-stats)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=reveur96&theme=cold)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reveur96)](https://github.com/reveur96/github-readme-stats)
   <br><br>
