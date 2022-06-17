@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=Wave&animation=fadeIn&color=auto&height=150&section=https://reveur1996.tistory.com/&header&text=ReveurK%20development%20work&fontColor=000000&fontSize=35)
+  ![header](https://capsule-render.vercel.app/api?type=Wave&animation=fadeIn&color=auto&height=150&section=https://reveur1996.tistory.com/&text=ReveurK%20development%20work&fontColor=000000&fontSize=35)
 
 <div align="center"> 
  
