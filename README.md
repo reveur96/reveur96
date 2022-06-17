@@ -14,6 +14,6 @@
   
  ## Get in Touch
   
-<a href:Personal site https://reveur1996.tistory.com/>Personal site</a>
+<a href=https://reveur1996.tistory.com/>Personal site</a>
   
 </div>
