@@ -21,4 +21,5 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reveur96)](https://github.com/reveur96/github-readme-stats)
   <br><br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reveur96)](https://github.com/reveur96/github-readme-stats)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=9cf&height=200&section=footer)
 </div>
