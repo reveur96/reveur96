@@ -17,10 +17,10 @@
  ## Get in Touch
   
 <a href=https://reveur1996.tistory.com/>Personal site</a>
-  
+  <br><br>
 
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=reveur96&theme=cold)
-  [![Top Langs](https://github-readme-stats.vercel.app/Top Langs/api?username=reveur96)](https://github.com/reveur96/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reveur96)(https://github.com/reveur96/github-readme-stats)
   <br><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reveur96&show_icons=true&theme=tokyonight)
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=9cf&height=200&section=footer)
