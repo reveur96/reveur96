@@ -1,6 +1,6 @@
  <div align="center"> 
   
- ![header](https://capsule-render.vercel.app/api?type=Wave&animation=blink&color=9cf&height=150&section=header&text=Crystal%20K%20development%20work&fontColor=000000&fontSize=35&Stroke%20)
+ ![header](https://capsule-render.vercel.app/api?type=Wave&animation=blink&color=9cf&height=150&section=header&text=Krystal%20K%20development%20work&fontColor=000000&fontSize=35&Stroke%20)
 
 
  
@@ -19,7 +19,6 @@
 <a href=https://reveur1996.tistory.com/>Personal site</a>
   <br><br>
 
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=reveur96&theme=cold)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reveur96)](https://github.com/reveur96/github-readme-stats)
   <br><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reveur96&show_icons=true&theme=tokyonight)
